@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gaston</h1>
-<h3 align="center">I'm studying web development 🥯</h3>
+<h3 align="center">I'm studying a bachelor's degree in systems🥯</h3>
 
 - 📫 How to reach me **gastonlorenzani@gmail.com**
 
-- ⚡ Fun fact **I don't like lol but i play it**
+- ⚡ Fun fact **I like to learn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
